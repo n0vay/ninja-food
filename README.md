@@ -13,6 +13,7 @@ get: node_modules for tailwind
 Step 3:
 npx tailwind init
 get: tailwind.config.js
+can also use --full at end to display all default arguments
 
 Step 4: Add location of source html file in content of tailwind.config.js
 example:
